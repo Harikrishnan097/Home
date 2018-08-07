@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+  body {
+    
+    background-image: url("../images/website-design-background.png");
+    } 
+    .boxed {
+ border-radius: 10px;
+      width: 356px;
+
+     padding: 21px;
+    margin: 20px;
+  border: 1px solid white;
+      background-color: whitesmoke
+}
+.form-rounded {
+border-radius: 1rem;
+}
+.rounded-1 {
+    border-radius: 3px !important;
+}
